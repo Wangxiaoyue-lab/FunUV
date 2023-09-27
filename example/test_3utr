@@ -1,0 +1,6 @@
+Chrom	Pos	Ref	Alt	Gene	Region
+chr1	1055037	T	C	AGRN	3_prime_UTR_variant
+chr1	1055153	G	A	AGRN	3_prime_UTR_variant
+chr1	1439326	AG	A	VWA1	3_prime_UTR_variant
+chr1	1439382	G	A	VWA1	3_prime_UTR_variant
+chr1	1439454	A	G	VWA1	3_prime_UTR_variant
