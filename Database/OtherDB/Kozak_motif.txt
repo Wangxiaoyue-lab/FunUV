@@ -1,0 +1,30 @@
+MEME version 4
+
+ALPHABET= ACGT
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+MOTIF strong 1
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+0.5	0	0.5	0
+0.3	0.6	0.05	0.05
+0.2	0.4	0.2	0.2
+1	0	0	0
+0	0	0	1
+0	0	1	0
+0.1	0	0.8	0.1
+0.2	0.3	0.4	0
+
+MOTIF weak 2
+
+letter-probability matrix: alength= 4 w= 8 nsites= 20 E= 0
+0	0.1	0	0.9
+0.15	0	0.7	0.15
+0.15	0.2	0.05	0.6
+1	0	0	0
+0	0	0	1
+0	0	1	0
+0.1	0.5	0.1	0.3
+0.15	0.15	0.3	0.4
