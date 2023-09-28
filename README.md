@@ -1,2 +1,8 @@
 # FunUV
-prediction model for functional UTR variants
+A prediction model for functional UTR variants using tree model.
+
+# Dependencies
+
+# Installation
+
+# Usage
