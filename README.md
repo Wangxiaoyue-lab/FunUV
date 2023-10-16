@@ -13,11 +13,11 @@ Clone this github repository.
 # Usage
 1. annotate variation using region-specific features.  
 
-  input file format (tab split):  
+    input file format (tab split):  
 
-  Chrom   Pos     Ref     Alt     Gene    Region  
-  chr1    1013541 T       C       ISG15   5_prime_UTR_variant  
-  chr1    1232241 G       A       B3GALT6 5_prime_UTR_variant
+    Chrom  Pos  Ref  Alt  Gene  Region  
+    chr1  1013541  T  C  ISG15  5_prime_UTR_variant  
+    chr1  1232241  G  A  B3GALT6  5_prime_UTR_variant
 
 python3 Sub_MutSeqByMANE.py -v inputfile -r Homo_sapiens_assembly38.fasta  
 
