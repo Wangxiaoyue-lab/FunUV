@@ -10,6 +10,8 @@ MEME-5.3.3
 # Installation
 Clone this github repository.  
 The relevant conservation score files are too large to upload, please downloaded from [hg38.phastCons100way.bw](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/phastCons100way/hg38.phastCons100way.bw) and [hg38.phyloP100way.bw](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/phyloP100way/hg38.phyloP100way.bw).  Then place the two files in the Database/Conservation directory.  
+The prediction model for UTR3 is too large, please get it from the release and then place in the Model directory  
+
 Note: All analysis is based on the hg38 version of the reference genome.  
 
 
