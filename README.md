@@ -2,8 +2,8 @@
 A prediction tool for functional UTR variants including UTR variation annotation.
 
 # Dependencies
-Python 3.9 and standard packages (scipy, sklearn, numpy, pandas, pyBigWig).  
-SAMTools 1.16  
+Python 3.9 and standard packages (scipy==1.10.1, scikit-learn==1.2.1, numpy==1.23.5, pandas==1.1.4, pyBigWig==0.3.21).  
+SAMTools-1.16  
 ViennaRNA-2.4.9  
 MEME-5.3.3  
 
