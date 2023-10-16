@@ -8,7 +8,8 @@ ViennaRNA-2.4.9
 MEME-5.3.3  
 
 # Installation
-Clone this github repository.
+Clone this github repository.  
+The relevant database files can be downloaded from [hg38.phastCons100way.bw]() and [hg38.phyloP100way.bw]()
 
 # Usage
 1. prepare transcript information.  
